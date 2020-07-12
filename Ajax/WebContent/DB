@@ -1,1 +1,15 @@
-DB
+MYSQL DB
+
+ create database ajax;
+ 
+ use ajax;
+
+create table user(
+userName varchar(20),
+userAge INT,
+userGender varchar(20),
+userEmail varchar(20)
+);
+
+
+insert into user values('È«±æµ¿', '30', '³²ÀÚ', 'hanhyxx@naver.com');
