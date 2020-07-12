@@ -12,4 +12,4 @@ userEmail varchar(20)
 );
 
 
-insert into user values('홍길동', '30', '남자', 'hanhyxx@naver.com');
+insert into user values('홍길동', '30', '남자', 'hanhyxx@naver.com'); 
